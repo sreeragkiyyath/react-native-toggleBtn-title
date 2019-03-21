@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import { View, Switch, StyleSheet, Text } from 'react-native'
-import { Col, Row, Grid } from 'react-native-easy-grid';
 
 /*
 <Title> =  <state one > : <Toggle button> : <state two> : <icon>
